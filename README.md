@@ -265,11 +265,8 @@ This project is for portfolio/educational purposes. Formula 1 data is provided b
 - **Ergast F1 API** for providing comprehensive F1 historical data
 - Formula 1 community for data and insights
 
-## 📧 Contact
-
-For questions or feedback about this project, please open an issue or contact the project maintainer.
 
 ---
 
-**Built with ❤️ for Data Analytics Portfolio**
+
 
